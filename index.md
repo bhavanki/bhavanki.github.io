@@ -10,7 +10,7 @@ For more about me, check my [LinkedIn profile](http://www.linkedin.com/in/billha
 
 I'll highlight some of my own public repositories, apart from those that I will work on as part of Segment.
 
-See them all on my [repo page](https://github.com/bhavanki).
+See them all on my [repo page](https://github.com/bhavanki?tab=repositories).
 
 #### [doppio](https://github.com/bhavanki/doppio)
 
